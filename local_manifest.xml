@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
 
+  <!-- Device Trees -->
+  <project path="device/hmd/SCW_sprout" name="sounddrill31/android_device_hmd_SCW-Sprout-lineage" remote="github" revision="lineage-20" />
+
+  <!-- Kernel Trees -->
+  <project path="kernel/hmd/SCW_sprout" name="sounddrill31/android_kernel_hmd_SCW-sprout" remote="github" revision="kernel">
+    
+  <!-- Vendor Trees -->
+  <project path="vendor/hmd/SCW_sprout" name="sounddrill31/nokia/android_vendor_SCW-sprout" remote="gitlab" revision="new" />
+
+</manifest>
