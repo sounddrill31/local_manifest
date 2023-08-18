@@ -8,6 +8,6 @@
   <project path="kernel/hmd/SCW_sprout" name="sounddrill31/android_kernel_hmd_SCW-sprout" remote="github" revision="kernel">
     
   <!-- Vendor Trees -->
-  <project path="vendor/hmd/SCW_sprout" name="sounddrill31/nokia/android_vendor_SCW-sprout" remote="gitlab" revision="new" />
+  <project path="vendor/hmd/SCW_sprout" name="sounddrill311/nokia/android_vendor_SCW-sprout" remote="gitlab" revision="new" />
 
 </manifest>
