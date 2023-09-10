@@ -5,9 +5,9 @@
   <remote name="sounddrill31gitlab"
       fetch="https://gitlab.com/sounddrill311">
   <!-- Device Trees -->
-  <project path="device/hmd/SCW_sprout" name="sounddrill31/android_device_hmd_SCW-Sprout-lineage" remote="sounddrill31" revision="lineage-20.0" />
+  <project path="device/hmd/SCW_sprout" name="android_device_hmd_SCW-Sprout-lineage" remote="sounddrill31" revision="lineage-20.0" />
   <!-- Kernel Trees -->
-  <project path="kernel/hmd/SCW_sprout" name="sounddrill31/android_kernel_hmd_SCW-sprout" remote="sounddrill31" revision="kernel">
+  <project path="kernel/hmd/SCW_sprout" name="android_kernel_hmd_SCW-sprout" remote="sounddrill31" revision="kernel">
   <!-- Vendor Trees -->
-  <project path="vendor/hmd/SCW_sprout" name="sounddrill311/nokia/android_vendor_SCW-sprout" remote="sounddrill31gitlab" revision="new" />
+  <project path="vendor/hmd/SCW_sprout" name="nokia/android_vendor_SCW-sprout" remote="sounddrill31gitlab" revision="new" />
 </manifest>
